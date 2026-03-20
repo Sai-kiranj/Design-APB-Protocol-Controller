@@ -14,15 +14,7 @@ with address decoding, FSM-based transfer control, and 3 peripheral slaves.
 ---
 
 ## Architecture
-```
-         ┌─────────────┐        ┌──────────────┐
-         │  APB Master │──────▶│  APB          │──▶ Slave 1 (UART)
-         │             │        │  Controller   │──▶ Slave 2 (I²C)
-         └─────────────┘        │  (FSM+Decode) │──▶ Slave 3 (SPI)
-                                └──────────────┘
-```
-
----
+<img width="1410" height="1120" alt="image" src="https://github.com/user-attachments/assets/a5fdc584-1578-4a1c-ab55-296c46e32acd" />
 
 ## FSM States
 
