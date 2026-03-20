@@ -76,6 +76,7 @@ Testbench covers 4 transactions:
 ![Waveform](waveform.png)
 
 ---
+<img width="1410" height="1162" alt="image" src="https://github.com/user-attachments/assets/78ad4bd0-0b65-4d26-a2a8-540da2a5e8cf" />
 
 ## How to Simulate
 
