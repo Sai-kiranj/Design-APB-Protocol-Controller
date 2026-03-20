@@ -100,5 +100,7 @@ Testbench covers 4 transactions:
 ## Author
 
 **Sai Kiran J**  
+**Vishwas V**
+**Vaishanavi V**
 ECE Student — Cambridge Institute of Technology, Bengaluru  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiranj02)
